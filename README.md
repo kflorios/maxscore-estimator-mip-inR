@@ -16,7 +16,8 @@ Feedback for the R code at cflorios@central.ntua.gr, cflorios@aueb.gr.
 
 In case you have trouble installing Rcplex package, do not heistate to contact me for support.
 
-This is a translation of my own Matlab code available in another repository of mine (maxscore-estimator-mip).
+This is a translation of my own Matlab code available in another repository of mine (https://github.com/kflorios/maxscore-estimator-mip).
+
 For completeness, I supply the Matlab manual here too.
 
 Suggested publication:  
