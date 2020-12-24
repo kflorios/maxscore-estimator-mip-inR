@@ -12,8 +12,12 @@ Currently, also weights w are supported for an extension called 'maximum weighte
 In order to have a more flexible modeling approach, readers are suggested to consult the GAMS version
 of the same model in https://www.gams.com/modlib/libhtml/mws.htm.
 
-Feedback for the R code at cflorios@central.ntua.gr, cflorios@aueb.gr 
+Feedback for the R code at cflorios@central.ntua.gr, cflorios@aueb.gr.
+
 In case you have trouble installing Rcplex package, do not heistate to contact me for support.
+
+This is a translation of my own Matlab code available in another repository of mine (maxscore-estimator-mip).
+For completeness, I supply the Matlab manual here too.
 
 Suggested publication:  
 
